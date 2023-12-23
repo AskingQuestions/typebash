@@ -16,7 +16,9 @@
 	},
 	"dependencies": {
 		"@repo/ui": "*",
-		"autoprefixer": "^10.4.16"
+		"autoprefixer": "^10.4.16",
+		"monaco-editor": "^0.45.0",
+		"typebash-engine": "*"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.40.0",
